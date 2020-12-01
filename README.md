@@ -2,19 +2,28 @@
 
 ## General Info
 
-Projekt strony WWW poświęconej fotografji.
-Powstał na potrzeby ćwiczania pisania kodu i praktycznego używania GitHuba.
-W póżniejszej fazie do nauki JS.
+Website design for photography..
+It was created for the purpose of practicing code writing and practical use of GitHub.
+It was created for the purpose of practicing code writing and practical use of GitHub.
 
-## Setup & Technologies
-Użyto HTML5 i CSS3.
-Poznawałem i ćiczyłem funkcję hover, flex, 
-W póżniejszej fazie wprowadzę interakcję w JS.
+## Setup
+
+Try a live demo or open index.html in your browser to try it out.
+
+## Demo
+
+https://andrzejlapniewski.github.io/Lapniewski-Foto-Dark/
+
+## Technologies
+
+HTML5 and CSS3 were used.
+I learned and practiced the hover and flex functions,
+In a later phase, I will introduce interaction in JS.
 
 
 ## Status
-Strona działa, ale do dopracowania zostało:
-- zachowanie obrazków w galerii (hover).
-- dodać menu nawigacyjne na dole strony ( następna galeria, poprzednia galeria, strone główna).
+The website works, but it needs to be refined: 
+- save pictures in the gallery (hover). 
+- add a navigation menu at the bottom of the page (next gallery, previous gallery, home page). 
 
-Na razie nie użyto kodu JS.
+No JS code has been used yet.
