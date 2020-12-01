@@ -8,7 +8,7 @@ W póżniejszej fazie do nauki JS.
 
 ## Setup & Technologies
 Użyto HTML5 i CSS3.
-Poznawałem i wiczyłem funkcję hover, flex, 
+Poznawałem i ćiczyłem funkcję hover, flex, 
 W póżniejszej fazie wprowadzę interakcję w JS.
 
 
