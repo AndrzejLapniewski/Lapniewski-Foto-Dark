@@ -332,7 +332,7 @@ img {
     font-family: 'Lato', sans-serif;
     padding: 20px  ;
     width: 400px;
-    background-color: rgba(255, 99, 71, 0.25);
+    background-color: rgba(71, 74, 255, 0.25);
 }
 
 @keyframes zoom {
