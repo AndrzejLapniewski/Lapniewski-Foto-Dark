@@ -322,17 +322,15 @@ img {
     background: linear-gradient(#000000, #00000000);
 
 }
-.AboutMeMain{
-    margin: 20px;
-}
+
 .aboutMeContent, .contactContent{
     font-size: 16px;
     color: whitesmoke;
     line-height: 1.5em;
     font-family: 'Lato', sans-serif;
     padding: 20px  ;
-    width: 400px;
-    background-color: rgba(71, 74, 255, 0.25);
+    max-width: 400px;
+    background-color:rgba(71, 74, 255, 0.25);
 }
 
 @keyframes zoom {
@@ -369,6 +367,9 @@ img {
     .figure:hover { animation-name: zoom;
         animation-duration: 0.5s;
         animation-fill-mode: backwards;
+        }
+        .AboutMeMain{
+            margin: 20px;
         }}
 
     
